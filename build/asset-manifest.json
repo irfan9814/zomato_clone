@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zomato_clone/static/css/main.ae9ff30e.css",
+    "main.js": "/zomato_clone/static/js/main.d16d2d0b.js",
+    "static/js/787.5095993b.chunk.js": "/zomato_clone/static/js/787.5095993b.chunk.js",
+    "index.html": "/zomato_clone/index.html",
+    "main.ae9ff30e.css.map": "/zomato_clone/static/css/main.ae9ff30e.css.map",
+    "main.d16d2d0b.js.map": "/zomato_clone/static/js/main.d16d2d0b.js.map",
+    "787.5095993b.chunk.js.map": "/zomato_clone/static/js/787.5095993b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae9ff30e.css",
+    "static/js/main.d16d2d0b.js"
+  ]
+}
